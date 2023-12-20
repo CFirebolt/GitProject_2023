@@ -3,3 +3,7 @@ Before Initializing Git
 -----------------------
 
 After Adding Files to Git
+
+-------------------------
+
+Storing Commit Update 1
